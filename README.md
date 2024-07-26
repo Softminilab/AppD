@@ -1,2 +1,1 @@
-# AppD
-AppD
+# This is AppD simple app
